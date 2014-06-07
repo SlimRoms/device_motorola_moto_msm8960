@@ -10,13 +10,8 @@
     "branch":      "kk4.4"
   },
   {
-    "repository":  "SlimRoms/kernel_motorola_msm8960-common",
-    "target_path": "kernel/motorola/msm8960-common",
-    "branch":      "kk4.4"
-  },
-  {
-    "repository":  "SlimRoms/vendor_motorola",
-    "target_path": "vendor/motorola",
+    "repository":  "SlimRoms/kernel_motorola_msm8960dt-common",
+    "target_path": "kernel/motorola/msm8960dt-common",
     "branch":      "kk4.4"
   },
   {
