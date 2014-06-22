@@ -116,10 +116,6 @@ PRODUCT_COPY_FILES += \
     device/motorola/qcom-common/idc/atmxt-i2c.idc:recovery/root/vendor/firmware/atmxt-i2c.idc \
     vendor/motorola/moto_msm8960/proprietary/etc/firmware/atmxt-r2.tdat:recovery/root/vendor/firmware/atmxt-r2.tdat
 
-# Include 960x540 boot animation in the zip
-PRODUCT_COPY_FILES += \
-    vendor/cm/prebuilt/common/bootanimation/540.zip:system/media/540.zip
-
 # Alternate optional key maps
 PRODUCT_PACKAGES += \
     AsantiKeypad
